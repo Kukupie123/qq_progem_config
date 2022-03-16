@@ -6,3 +6,10 @@ services:
     project: 4000
     projectrule: 5000
     projectleader: 6000
+  urls:
+    gateway: localhost
+    jwt: localhost
+    auth: localhost
+    project: localhost
+    projectrule: localhost
+    projectleader: localhost
