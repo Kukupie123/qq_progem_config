@@ -1,2 +1,8 @@
-
-test : ggez
+services:
+  ports:
+    gateway: 1000
+    jwt: 2000
+    auth: 3000
+    project: 4000
+    projectrule: 5000
+    projectleader: 000
