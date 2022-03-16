@@ -5,4 +5,4 @@ services:
     auth: 3000
     project: 4000
     projectrule: 5000
-    projectleader: 000
+    projectleader: 6000
