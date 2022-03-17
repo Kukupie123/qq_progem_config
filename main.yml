@@ -20,3 +20,10 @@ spring:
     username: postgres
     password: root
     url: r2dbc:postgresql://localhost:5432/progem
+
+
+table:
+  users:
+    name: users
+    email: email
+    password: cred
