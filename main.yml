@@ -1,11 +1,10 @@
 services:
   ports:
     gateway: 1000
-    jwt: 2000
-    auth: 3000
-    project: 4000
-    projectrule: 5000
-    projectleader: 6000
+    auth: 2000
+    project: 3000
+    projectrule: 4000
+    projectleader: 5000
   urls:
     gateway: localhost
     jwt: localhost
