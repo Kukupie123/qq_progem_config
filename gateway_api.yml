@@ -1,0 +1,7 @@
+gateway:
+  auth:
+    base: api/v1/auth
+    signin: /sign-in
+    signup: /sign-up
+  project:
+    base: 
