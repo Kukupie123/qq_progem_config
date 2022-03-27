@@ -1,0 +1,3 @@
+project:
+  base: api/v1/project
+  create: create
