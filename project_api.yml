@@ -1,2 +1,4 @@
 project:
   base: api/v1/project
+  #To create project we do POST request on base
+  #To Get project we do base/projectID
