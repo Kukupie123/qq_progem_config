@@ -1,7 +1,7 @@
 auth:
   base: api/v1/auth
-  signin: /sign-in
-  signup: /sign-up  
+  signin: sign-in
+  signup: sign-up  
 jwt:
   base: api/v1/jwt
-  getuserid: /get-userid
+  getuserid: get-userid
