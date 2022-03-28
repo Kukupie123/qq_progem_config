@@ -1,2 +1,3 @@
 member:
   base: api/v1/member
+  addleader: add-leader
