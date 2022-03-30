@@ -4,14 +4,14 @@ services:
     auth: 2000
     project: 3000
     projectrule: 4000
-    projectleader: 5000
+    member: 5000
   urls:
     gateway: localhost
     jwt: localhost
     auth: localhost
     project: localhost
     projectrule: localhost
-    projectleader: localhost
+    member: localhost
     
     
 spring:
