@@ -1,3 +1,4 @@
 projectrule:
   base: api/v1/projectrule
   getsimilarrule: get-similar
+  validate: validate-rule
